@@ -1,3 +1,12 @@
-table{
-    center: margin-right: auto; margin-left: auto;
+.container {
+  width: fit-content;
+  height: fit-content;
+  border: 1px solid black;
+}
+#pic{
+  width: fit-content;
+  height: fit-content;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-left: 200px;
 }
